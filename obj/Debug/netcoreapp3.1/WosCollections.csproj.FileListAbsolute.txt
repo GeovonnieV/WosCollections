@@ -1,0 +1,13 @@
+C:\Users\Geo\code\wos\cSharp\WosCollections\bin\Debug\netcoreapp3.1\WosCollections.exe
+C:\Users\Geo\code\wos\cSharp\WosCollections\bin\Debug\netcoreapp3.1\WosCollections.deps.json
+C:\Users\Geo\code\wos\cSharp\WosCollections\bin\Debug\netcoreapp3.1\WosCollections.runtimeconfig.json
+C:\Users\Geo\code\wos\cSharp\WosCollections\bin\Debug\netcoreapp3.1\WosCollections.runtimeconfig.dev.json
+C:\Users\Geo\code\wos\cSharp\WosCollections\bin\Debug\netcoreapp3.1\WosCollections.dll
+C:\Users\Geo\code\wos\cSharp\WosCollections\bin\Debug\netcoreapp3.1\WosCollections.pdb
+C:\Users\Geo\code\wos\cSharp\WosCollections\obj\Debug\netcoreapp3.1\WosCollections.csprojAssemblyReference.cache
+C:\Users\Geo\code\wos\cSharp\WosCollections\obj\Debug\netcoreapp3.1\WosCollections.AssemblyInfoInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosCollections\obj\Debug\netcoreapp3.1\WosCollections.AssemblyInfo.cs
+C:\Users\Geo\code\wos\cSharp\WosCollections\obj\Debug\netcoreapp3.1\WosCollections.csproj.CoreCompileInputs.cache
+C:\Users\Geo\code\wos\cSharp\WosCollections\obj\Debug\netcoreapp3.1\WosCollections.dll
+C:\Users\Geo\code\wos\cSharp\WosCollections\obj\Debug\netcoreapp3.1\WosCollections.pdb
+C:\Users\Geo\code\wos\cSharp\WosCollections\obj\Debug\netcoreapp3.1\WosCollections.genruntimeconfig.cache
